@@ -1,27 +1,8 @@
-# Lab2 Developing tasks in FreeRTOS
+# Lab2 
+* Developing tasks in FreeRTOS
 
-## OBJECTIVES
-
-- Students can install FreeRTOS
-
-- Students can understand the FreeRTOS organization
-
-- Students learn the ways of the customization of FreeRTOS
-- Students can write simple programs with multiple tasks for FreeRTOS
-
-## OVERVIEW
-
-Laboratory work 2 is aimed at obtaining initial knowledge and skills in programming FreeRTOS tasks. You will need this knowledge to successfully complete the following laboratory work.
-
-## Task
-
-1. Read the FreeRTOS and Git documentation
-2. Install FreeRTOS using Stm32CubeIDE
-3. Create a project
-4. Create two tasks
-5. From each task, control the LEDs at different frequencies
-6. **Put the source code of the project on GitHub (2 points)**. You can use for this git, SourceTree, plugin for Eclipse, etc...
-7. **Read the FreeRTOS documentation and answer the questions in the end of this document (2 points per question)**
+* Name: Liu Jun
+* Number: 192050223
 
 ## Questions
 
