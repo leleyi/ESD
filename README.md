@@ -1,10 +1,4 @@
-# Embedded_Systems_Design
-
-## Lecturer, instructor
-
-Arkady Kluchev, Associate Professor kluchev@itmo.ru
-
-Sergei Bykovskii, Associate Professor sergei_bykovskii@itmo.ru
+# ESD
 
 ## Course description:
 
@@ -12,4 +6,3 @@ The course is dedicated to understanding the basic principles of embedded system
 
 The course consists the four laboratory works. The laboratory works are devoted to practice in software development for STM32 microcontrollers using C programming language. The students will study the FreeRTOS real-time operating system organization and practice in writing programs for it.
 
-# ESD
