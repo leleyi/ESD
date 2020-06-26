@@ -1,12 +1,6 @@
 
 # ESD
 
-## Lecturer, instructor
-
-Arkady Kluchev, Associate Professor kluchev@itmo.ru
-
-Sergei Bykovskii, Associate Professor sergei_bykovskii@itmo.ru
-
 ## Course description:
 
 The course is dedicated to understanding the basic principles of embedded systems design. In this course, students will learn the fundamentals of embedded systems architectural design, various models of computation, the principles of system software developing and the basics of using real-time operating systems. These topics will be discussed during eight lectures.
