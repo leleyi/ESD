@@ -9,3 +9,5 @@ The course consists the four laboratory works. The laboratory works are devoted 
 [lab2](https://github.com/leleyi/ESD/blob/master/lab2/README.md)
 
 [lab3](https://github.com/leleyi/ESD/tree/master/lab3)
+
+[lab4](https://github.com/leleyi/ESD/tree/master/lab4)
